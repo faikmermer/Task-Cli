@@ -5,6 +5,7 @@
   - [Installation](#Installation)
   - [Contributing](#Contributing)
   - [License](#License)
+  - [Project Details](#ProjectDetails)
 
 ## Overview
 - This project include TypeScript language and asynchronous working examples. The purpose is to practise and create a back-end example.
@@ -59,3 +60,6 @@ Contributions are welcome! To contribute to the project, follow these steps:
 
 ## License
 Distributed under the Unlicense License.
+
+## Project Details
+https://roadmap.sh/projects/task-tracker
