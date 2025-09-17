@@ -13,13 +13,22 @@
 
 ## Installation
 1. Make sure you have Node.js installed. (To download Node.js: [Node.js Official Site](https://nodejs.org))
-2. Install the dependencies - Devdependencies and ts.config:
+2. Please create name Task-Cli file
+    ```
+    mkdir Task-Cli
+    cd Task-Cli
+    ```
+    Git (VCS) operations
+    ```
+    git clone https://github.com/faikmermer/Task-Cli.git
+
+4. Install the dependencies - Devdependencies and ts.config:
    ```bash
    npm init -y
    npm install typescript ts-node @types-node --save--dev
    npx tsc --init
    ```
-3. Complier and Run
+5. Complier and Run
    * Debugger
    ```
    npx tsc
@@ -53,10 +62,10 @@
 Contributions are welcome! To contribute to the project, follow these steps:
 
 1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature-name`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature-name`)
-5.  Open a Pull Request
+3.  Create your Feature Branch (`git checkout -b feature-name`)
+4.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+5.  Push to the Branch (`git push origin feature-name`)
+6.  Open a Pull Request
 
 ## License
 Distributed under the Unlicense License.
