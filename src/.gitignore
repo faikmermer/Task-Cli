@@ -1,0 +1,7 @@
+# Node.js bağımlılıkları
+node_modules/
+
+# Derleme çıktı klasörleri
+dist/
+build/
+out/
