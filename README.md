@@ -28,7 +28,7 @@
    npm install typescript ts-node @types-node --save--dev
    npx tsc --init
    ```
-5. Complier and Run
+5. Compilier and Run
    * Debugger
    ```
    npx tsc
