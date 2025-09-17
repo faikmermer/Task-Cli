@@ -13,12 +13,7 @@
 
 ## Installation
 1. Make sure you have Node.js installed. (To download Node.js: [Node.js Official Site](https://nodejs.org))
-2. Please create name Task-Cli file
-    ```
-    mkdir Task-Cli
-    cd Task-Cli
-    ```
-    Git (VCS) operations
+2. Git (VCS) operations
     ```
     git clone https://github.com/faikmermer/Task-Cli.git
 
